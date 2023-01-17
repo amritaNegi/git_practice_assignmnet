@@ -6,7 +6,7 @@ factor++;
 }
 }
 
-if(factor==1){
+if(factor==2){ //prime will have 2 factors
 console.log("Prime");
 }else{
 console.log("Not Prime");
